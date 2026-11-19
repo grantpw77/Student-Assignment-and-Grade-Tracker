@@ -13,7 +13,6 @@ This program is intended for college students who want a simple way to organize 
 - Organize assignments by class.
 - Record grades and calculate averages.
 - View upcoming deadlines.
-- Save assignment information for future use.
 
 ## Technologies
 - Python
